@@ -191,7 +191,6 @@ SECRETS AND CONFIGMAP
 
 - Step 5: Deploy your work on Kubernetes to showcase your application within your team.
 
-
 ## Resources
 
 - [Kubernetes Documentations](https://kubernetes.io/docs/home/)
